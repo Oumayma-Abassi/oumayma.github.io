@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://oumayma-abassi.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Window Functions vs Aggregate Functions</title>
+      <link>https://oumayma-abassi.me/posts/window-functions-vs-aggregate-functions/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://oumayma-abassi.me/posts/window-functions-vs-aggregate-functions/</guid>
+      <description>What’s the Difference and When to Use Each?</description>
+    </item>
+    
+    <item>
       <title>Machine Learning 101</title>
       <link>https://oumayma-abassi.me/posts/machine-learning-101/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 -0400</pubDate>
